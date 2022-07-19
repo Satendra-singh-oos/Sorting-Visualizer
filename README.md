@@ -17,7 +17,7 @@ Colored representation of step being executed. 1.1) Blue:default 1.2) Yellow: Be
 3 Controls for visualizations 2.1) Speed of visualization (5 speed levels) 2.2) Data size () 2.3) Generation of new data (Randomly generate new data).
 Time and Space complexity of algorithm being visualized.
 
-This is built using HTML, CSS, JavaScript
+# This is built using HTML, CSS, JavaScript
 
 ![Screenshot (27)](https://user-images.githubusercontent.com/59407093/179669917-ee3ca85d-0204-4cca-aa51-c69c9cef3efb.png)
 
